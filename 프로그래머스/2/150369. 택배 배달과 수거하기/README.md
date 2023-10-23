@@ -1,6 +1,6 @@
 # [level 2] 택배 배달과 수거하기 - 150369 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/150369#) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/150369) 
 
 ### 성능 요약
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2023년 10월 1일 21:10:27
+2023년 10월 1일 21:11:21
 
 ### 문제 설명
 
